@@ -1,3 +1,4 @@
 ### Hi there 👋
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnwpdnr123@naver.com)](https://solved.ac/dnwpdnr123@naver.com/)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={gowls980807})](https://solved.ac/{gowls980807})
